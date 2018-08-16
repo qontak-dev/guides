@@ -1,6 +1,6 @@
 # Guides
 
-Guides for programming in style.
+Guides for programming in style. This guide is influenced by [Thoughtbot Guide](https://github.com/thoughtbot/guides)  and use some best practices written there. Thanks Thoughtbot.
 
 * [Style](https://github.com/qontak-dev/guides/tree/master/style)
 
