@@ -1,6 +1,6 @@
 # Four Phase Test
 
-Following this article https://robots.thoughtbot.com/four-phase-test,
+Following this [article](https://robots.thoughtbot.com/four-phase-test),
 there are four distinct phases of the test. They are executed sequentially.
 
 ```
