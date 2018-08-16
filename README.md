@@ -2,7 +2,7 @@
 
 Guides for programming in style.
 
-* Style
+* [Style](https://github.com/qontak-dev/guides/tree/master/style)
 
 ## Contributing
 
