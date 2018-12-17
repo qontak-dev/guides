@@ -10,11 +10,11 @@
   
 2. Create Pull request 
 
-  https://bitbucket.org/<account_name>/<repo_name>/pull-requests/new
+  - https://bitbucket.org/<account_name>/<repo_name>/pull-requests/new
 
 3. Click button 
 
-
+  - 
 
 4. Fill Out The Message Template
 
