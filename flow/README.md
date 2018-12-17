@@ -12,10 +12,10 @@
 
   - https://bitbucket.org/<account_name>/<repo_name>/pull-requests/new
 
-3. Click button 
+3. Click button Redefined Bitbucket on Bar
 
-  - 
+  - ![rd-button](https://raw.githubusercontent.com/qontak-dev/guides/master/rb.png)
 
 4. Fill Out The Message Template
 
-
+  - ![rd-button](https://raw.githubusercontent.com/qontak-dev/guides/master/pr-template.png)
