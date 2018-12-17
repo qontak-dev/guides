@@ -18,4 +18,6 @@
 
 4. Fill Out The Message Template
 
-  - ![rd-button](https://raw.githubusercontent.com/qontak-dev/guides/master/pr-template.png)
+  ![rd-button](https://raw.githubusercontent.com/qontak-dev/guides/master/pr-template.png)
+
+
